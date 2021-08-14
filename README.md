@@ -1,3 +1,5 @@
+![foodApp](https://user-images.githubusercontent.com/35643022/129452843-96fdd667-029a-4068-8eb8-762f4e80b061.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
